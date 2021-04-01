@@ -477,6 +477,13 @@ padding: 5%;
   font-weight: var(--font-semi);
   padding: 2rem 0;
 }
+
+@media (max-width: 768px) {
+  .footer {
+   padding: 2rem 0;
+  }
+}
+
 .footer__title{
   font-size: 2rem;
   margin-bottom: var(--mb-4);
