@@ -228,7 +228,7 @@ img{
 }
 
 
-/* .home__img{
+ .home__img{
   position: absolute;
   right: 0;
   width: 295px;
@@ -239,14 +239,15 @@ img{
 }
 
 @media (max-width: 768px) {
-  .home-image {
-    position: fixed;
-        width: 205px;
-        margin-top: 19em;
-        margin-left: 3em;
-
-  }
-} */
+.home-image {
+    width: 305px;
+    padding-top: 5em;
+    padding-right: 5em;
+    margin-top: 19em;
+   
+    border-radius: 5%;
+}
+} 
 
 
 .home__img{
