@@ -240,8 +240,8 @@ img{
 
 @media (max-width: 768px) {
 .home-image {
-    width: 305px;
-    padding-top: 5em;
+    width: 400px;
+    padding-top: 8em;
     padding-right: 5em;
     margin-top: 19em;
    
@@ -462,7 +462,7 @@ padding: 5%;
 
 @media (max-width: 768px) {
   .footer__link {
-    margin-left: 7em;
+    margin-left: 1em;
       margin-bottom: 9em;
       margin-top: 3em;
       font-size: 25px;
